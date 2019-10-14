@@ -7,6 +7,3 @@ The start button will start the stopwatch. Stop button will stop the stopwatch a
 The second project is a basic layout of a mail app. Its called the CatChat App.
 
 
-
-
-
